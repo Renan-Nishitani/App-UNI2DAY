@@ -1,6 +1,6 @@
 # UNI2DAY:O seu estudo no seu futuro 📚
 # Integrantes 🫂 
-* Pedro Santos Pequini 3DS
+* Matheus Kevin dos Santos 3DS
 * Renan Mitsuru Nishitani Souza 3DS
 
  # Descrição do Projeto 🇧🇷   
