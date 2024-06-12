@@ -1,3 +1,4 @@
+import 'package:appuni2day/cadastro.dart';
 import 'package:flutter/material.dart';
 
 const IconData home = IconData(0xe318, fontFamily: 'MaterialIcons');
@@ -24,7 +25,9 @@ class Facul1 extends StatelessWidget {
             size: 36.0, // Tamanho do ícone
           ),
           onPressed: () {
-            Navigator.pop(context);
+            Navigator.push(context,
+            MaterialPageRoute(builder: (context) => Cadastro()),
+            );
           },
         ),
       ),
